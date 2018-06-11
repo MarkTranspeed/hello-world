@@ -1,2 +1,2 @@
 # hello-world
-Test repository - following Guide
+Test repository - just following the github Guide
